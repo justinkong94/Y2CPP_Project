@@ -1,0 +1,71 @@
+﻿Build started 5/12/2015 11:57:11 PM.
+     1>Project "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\src\CourseworkBase.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\SDL\include /ZI /nologo /W1 /WX- /Od /Oy- /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\\" /Fd"C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\vc120.pdb" /FR"C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\\" /Gd /TP /analyze- /errorReport:prompt DemoAMain.cpp DemoBObject.cpp Jwk04uBullet.cpp Jwk04uEnemy.cpp Jwk04uMain.cpp Jwk04uPlayer.cpp Jwk04uTileManager.cpp mainfunction.cpp BaseEngine.cpp DisplayableObject.cpp FontManager.cpp JPGImage.cpp SimpleDemo.cpp TileManager.cpp BouncingBall.cpp BouncingBallMain.cpp Demo1Main.cpp Demo2Main.cpp Demo2Object.cpp Demo2TileManager.cpp Demo3Main.cpp Demo3Object.cpp Demo3ObjectFinished.cpp Demo3TileManager.cpp Demo4Main.cpp Demo4Object.cpp Demo4TileManager.cpp
+         DemoAMain.cpp
+         DemoBObject.cpp
+         Jwk04uBullet.cpp
+         Jwk04uEnemy.cpp
+         Jwk04uMain.cpp
+         Jwk04uPlayer.cpp
+         Jwk04uTileManager.cpp
+         mainfunction.cpp
+         BaseEngine.cpp
+         DisplayableObject.cpp
+         FontManager.cpp
+         JPGImage.cpp
+         SimpleDemo.cpp
+         TileManager.cpp
+         BouncingBall.cpp
+         BouncingBallMain.cpp
+         Demo1Main.cpp
+         Demo2Main.cpp
+         Demo2Object.cpp
+         Demo2TileManager.cpp
+         Generating Code...
+         Compiling...
+         Demo3Main.cpp
+         Demo3Object.cpp
+         Demo3ObjectFinished.cpp
+         Demo3TileManager.cpp
+         Demo4Main.cpp
+         Demo4Object.cpp
+         Demo4TileManager.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\CourseworkBase.exe" /NOLOGO /LIBPATH:..\SDL\libx86 SDL2.lib SDL2main.lib SDL2_image.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\CourseworkBase.pdb" /MAP:"map" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE:NO /IMPLIB:"C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\CourseworkBase.lib" /MACHINE:X86 /SAFESEH "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\DemoAMain.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\DemoBObject.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Jwk04uBullet.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Jwk04uEnemy.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Jwk04uMain.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Jwk04uPlayer.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Jwk04uTileManager.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\mainfunction.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\BaseEngine.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\DisplayableObject.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\FontManager.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\JPGImage.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\SimpleDemo.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\TileManager.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\BouncingBall.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\BouncingBallMain.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo1Main.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo2Main.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo2Object.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo2TileManager.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo3Main.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo3Object.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo3ObjectFinished.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo3TileManager.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo4Main.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo4Object.obj"
+         "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo4TileManager.obj"
+     1>DemoAMain.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         CourseworkBase.vcxproj -> C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\CourseworkBase.exe
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe /nologo /o"C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\CourseworkBase.bsc" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\DemoAMain.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\DemoBObject.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Jwk04uBullet.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Jwk04uEnemy.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Jwk04uMain.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Jwk04uPlayer.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Jwk04uTileManager.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\mainfunction.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\BaseEngine.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\DisplayableObject.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\FontManager.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\JPGImage.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\SimpleDemo.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\TileManager.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\BouncingBall.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\BouncingBallMain.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo1Main.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo2Main.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo2Object.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo2TileManager.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo3Main.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo3Object.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo3ObjectFinished.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo3TileManager.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo4Main.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo4Object.sbr" "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\/Debug\Demo4TileManager.sbr"
+     1>Done Building Project "C:\Users\Justin\Documents\Nottingham Studies\Year 2\Semester 2\C++\CPP_CW2015\CPP_CW2015\src\CourseworkBase.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:29.91
